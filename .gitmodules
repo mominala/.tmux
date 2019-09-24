@@ -1,0 +1,3 @@
+[submodule "session-finder"]
+	path = session-finder
+	url = https://github.com/siadat/session-finder
